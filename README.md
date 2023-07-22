@@ -1,5 +1,5 @@
-#Algo Trading
+## Algo Trading
 
-#System Based trading automation
+## System Based trading automation
 
-#Experiments and learnings
+## Experiments and learnings
